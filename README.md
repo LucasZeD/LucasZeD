@@ -44,6 +44,7 @@ Pursue a master's degree in AI.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -58,5 +59,6 @@ Pursue a master's degree in AI.
 
 ### 🚀 Let's Connect!
 
-- 📫 Contact me: lucas.zgrine@gmail.com  
+- 📫 Contact me: lucas.zgrine@gmail.com
 - 🌐 Fund me: [Gumroad](https://zegrine.gumroad.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-zegrine/)
