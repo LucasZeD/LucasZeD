@@ -59,4 +59,4 @@ Pursue a master's degree in AI.
 ### 🚀 Let's Connect!
 
 - 📫 Contact me: lucas.zgrine@gmail.com  
-- 🌐 Portfolio & products: [Gumroad](https://zegrine.gumroad.com)  
+- 🌐 Fund me: [Gumroad](https://zegrine.gumroad.com)  
