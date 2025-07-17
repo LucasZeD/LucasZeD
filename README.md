@@ -62,4 +62,3 @@ Pursue a master's degree in AI.
 - 📫 Contact me: lucas.zgrine@gmail.com
 - 🌐 Fund me: [Gumroad](https://zegrine.gumroad.com)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-zegrine/)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-zegrine/).]
